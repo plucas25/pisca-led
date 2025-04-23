@@ -22,4 +22,3 @@ void loop()
   //Aguarda intervalo de tempo em milissegundos
   delay(5000);
 }
-
