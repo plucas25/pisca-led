@@ -3,7 +3,7 @@
 void setup()
 {
   Serial.begin(9600);
-  Serial.println("Proeducador - Versionamento Git e GitHub");
+  Serial.println("Proeducador - Gerenciamento de repositório local e remoto");
   //Define a porta do led como saida
   pinMode(11, OUTPUT);
 }
