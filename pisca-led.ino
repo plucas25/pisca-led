@@ -2,6 +2,8 @@
  
 void setup()
 {
+  Serial.begin(9600);
+  Serial.println("Proeducador - Versionamento Git e GitHub");
   //Define a porta do led como saida
   pinMode(11, OUTPUT);
 }
@@ -20,3 +22,4 @@ void loop()
   //Aguarda intervalo de tempo em milissegundos
   delay(5000);
 }
+
