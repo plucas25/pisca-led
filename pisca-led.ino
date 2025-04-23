@@ -18,5 +18,5 @@ void loop()
   digitalWrite(11, LOW);
    
   //Aguarda intervalo de tempo em milissegundos
-  delay(1000);
+  delay(5000);
 }
